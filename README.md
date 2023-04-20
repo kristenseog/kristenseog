@@ -5,9 +5,7 @@
 <a href="https://www.instagram.com/devfwd/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=" " height="30" width="40" /></a> 
 &nbsp;
 
-<!-- <a href=" " target="_blank"><img align="center" src="./GIthubBIO/linktree-logo-icon.svg" alt=" " height="30" width="40" /></a>
-&nbsp; -->
-
+ 
 
 
 ## Welcome! &nbsp; ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fapi.visitorbadge.io%2Fapi%2Fvisitors%3Fpath%3Dhttps%253A%252F%252Fvisitor-badge.glitch.me%252Fbadge%253Fpage_id%253Ddevfwd%26countColor%3D%25232ccce4%26labelStyle%3Dnone&countColor=%230073ed&style=plastic&labelStyle=none)
@@ -18,8 +16,9 @@ As a work in progress Data Engineer and Software Engineer, I enjoy using my obse
 
 That's why I love to explore and learn new things to build thing that make an impact!
 
-🌱 I'm currently learning: python, data management, data automation, react/react-native, express.js!
- &nbsp;
+🌱 I'm currently learning: python, data management, data automation, mindsDB, react/react-native, express.js! 
+&nbsp;
+
 ✍ I've completed FreeCodeCamp's <a href="https://www.freecodecamp.org/certification/DevFWD/javascript-algorithms-and-data-structures"> JavaScript Algorithms and Data Structures certification </a> and <a href="https://www.freecodecamp.org/certification/DevFWD/data-analysis-with-python-v7">Data Analysis with Python certiication</a>.
  &nbsp;
 
