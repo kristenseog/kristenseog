@@ -1,4 +1,4 @@
-# Welcome to [DevFWD's]([http://127.0.0.1:5500/index.html#](https://kristenseog.github.io/DevFWD_Portfolio/)) profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [DevFWD's](https://kristenseog.github.io/DevFWD_Portfolio/) profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
  
 
 <a href="https://www.linkedin.com/in/kristenseog/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" " height="30" width="40" /></a>
